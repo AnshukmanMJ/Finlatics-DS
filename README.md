@@ -1,6 +1,8 @@
 # Finlatics-DS
 Digital Marketing Analysis: Customer Segmentation & Churn Prediction
+
 Overview
+
 This project performs a comprehensive data science analysis on a synthetic digital marketing dataset. The primary goals are twofold:
 
 Customer Segmentation: Use unsupervised learning (K-Means clustering) to identify distinct customer groups based on their purchasing and engagement behavior.
